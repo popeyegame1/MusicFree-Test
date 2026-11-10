@@ -1,0 +1,35 @@
+{
+  "desc": "MusicFree 严格筛选精选插件库：仅收录已读取源码并核对插件结构/功能的候选；未做实际设备播放验证",
+  "plugins": [
+    {
+      "name": "QQ音乐（Jankinsu精选）",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/qqmusic.js",
+      "version": "0.2.4"
+    },
+    {
+      "name": "网易云音乐（Jankinsu精选）",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/netease.js",
+      "version": "0.2.2"
+    },
+    {
+      "name": "酷我音乐（Jankinsu精选）",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/kuwo.js",
+      "version": "0.1.7"
+    },
+    {
+      "name": "哔哩哔哩（Jankinsu精选）",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/bilibili.js",
+      "version": "0.1.15"
+    },
+    {
+      "name": "Audiomack（Jankinsu精选）",
+      "url": "https://raw.githubusercontent.com/Jankinsu/MFPlugins/master/scripts/audiomack.js",
+      "version": "0.0.2"
+    },
+    {
+      "name": "Audius（SGJki精选）",
+      "url": "https://raw.githubusercontent.com/SGJki/musicfree-plugins/master/audius-plugin.js",
+      "version": "0.0.1"
+    }
+  ]
+}
